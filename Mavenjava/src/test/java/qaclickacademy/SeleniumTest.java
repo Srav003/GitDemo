@@ -17,6 +17,11 @@ public class SeleniumTest {
 		System.out.println("elementsUi");	
 	}
 	@Test
+	public void elementasUi()
+	{
+		System.out.println("once more adding code in develop branch");	
+	}
+	@Test
 	public void elemens()
 	{
 		System.out.println("elementsUi added one more just to check in the features of Git");	
