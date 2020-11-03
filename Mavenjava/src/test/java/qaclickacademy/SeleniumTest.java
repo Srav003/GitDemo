@@ -16,6 +16,10 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUi");	
 	}
-	
+	@Test
+	public void elemens()
+	{
+		System.out.println("elementsUi added one more just to check in the features of Git");	
+	}
 	
 }
